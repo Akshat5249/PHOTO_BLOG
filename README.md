@@ -1,2 +1,2 @@
 # PHOTO_BLOG
-its a basic web page which has photos in orderly pattern 
+its a web page which has photos in arranged manner 
